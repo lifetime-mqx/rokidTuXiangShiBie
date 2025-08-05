@@ -1,0 +1,4 @@
+repository "rokidTuXiangShiBie@tj_wechat_os_qy00poo_nfkzgzr2mcqiloafm@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

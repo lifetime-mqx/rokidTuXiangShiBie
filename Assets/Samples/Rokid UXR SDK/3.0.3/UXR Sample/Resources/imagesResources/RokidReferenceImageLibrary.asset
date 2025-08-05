@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d48b136013127442b937e501c984804c, type: 3}
+  m_Name: RokidReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5536954999465117416
+  m_GuidHigh: 4272601065453655995
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4971001224471695992
+      m_GuidHigh: 2866975793000175271
+    m_SerializedTextureGuid:
+      m_GuidLow: 6923202181783348944
+      m_GuidHigh: 14690174976540976408
+    m_Size: {x: 0.5, y: 0.85064936}
+    m_SpecifySize: 0
+    m_Index: 1
+    m_ImageQuality: 1
+    m_Name: 16
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5234158768958260386
+      m_GuidHigh: 18073878061409325213
+    m_SerializedTextureGuid:
+      m_GuidLow: 1475407858980751157
+      m_GuidHigh: 13410040754341030297
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 2
+    m_ImageQuality: 1
+    m_Name: CubeRoom_BakedDiffuse
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5606720447955623559
+      m_GuidHigh: 18169379691062191787
+    m_SerializedTextureGuid:
+      m_GuidLow: 7531353323524673710
+      m_GuidHigh: 3827376562236526985
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 3
+    m_ImageQuality: 1
+    m_Name: animal
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4697243803014927421
+      m_GuidHigh: 4226115977266400933
+    m_SerializedTextureGuid:
+      m_GuidLow: 3482688825378277986
+      m_GuidHigh: 8621905994152591369
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 4
+    m_ImageQuality: 1
+    m_Name: wenli
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5125339457719987603
+      m_GuidHigh: 2510466415560567979
+    m_SerializedTextureGuid:
+      m_GuidLow: 7981686822651241521
+      m_GuidHigh: 3215527795553880184
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 5
+    m_ImageQuality: 1
+    m_Name: wen3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5750674228319027294
+      m_GuidHigh: 14843329206662656185
+    m_SerializedTextureGuid:
+      m_GuidLow: 1915396710288837860
+      m_GuidHigh: 17479752988170788008
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 6
+    m_ImageQuality: 1
+    m_Name: wen4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5022473195137019025
+      m_GuidHigh: 5411537610354381732
+    m_SerializedTextureGuid:
+      m_GuidLow: 11467308100566104616
+      m_GuidHigh: 13590249601121468265
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 7
+    m_ImageQuality: 1
+    m_Name: wenli2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5605436821805442035
+      m_GuidHigh: 7078764289928466846
+    m_SerializedTextureGuid:
+      m_GuidLow: 2586415601070318398
+      m_GuidHigh: 6616913676057547387
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 8
+    m_ImageQuality: 1
+    m_Name: 1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4717483556531396539
+      m_GuidHigh: 2320029326607842463
+    m_SerializedTextureGuid:
+      m_GuidLow: 4113102581916274883
+      m_GuidHigh: 5132715412650656201
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 9
+    m_ImageQuality: 1
+    m_Name: 2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4949279119903013902
+      m_GuidHigh: 3291617731318495931
+    m_SerializedTextureGuid:
+      m_GuidLow: 4072640146389273281
+      m_GuidHigh: 2082204086190173704
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 10
+    m_ImageQuality: 1
+    m_Name: 3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5756424786105430082
+      m_GuidHigh: 4951098388449477532
+    m_SerializedTextureGuid:
+      m_GuidLow: 12237425289040823280
+      m_GuidHigh: 11997793256817809880
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 11
+    m_ImageQuality: 1
+    m_Name: 4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5021830651803787032
+      m_GuidHigh: 9089893045594955704
+    m_SerializedTextureGuid:
+      m_GuidLow: 17461627405528490590
+      m_GuidHigh: 13045399890542938202
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 12
+    m_ImageQuality: 1
+    m_Name: 5
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4999663906752888503
+      m_GuidHigh: 15697921467395462800
+    m_SerializedTextureGuid:
+      m_GuidLow: 5230000212328596102
+      m_GuidHigh: 2787416935683120938
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 13
+    m_ImageQuality: 1
+    m_Name: 6
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5290401788074338611
+      m_GuidHigh: 389589073365048239
+    m_SerializedTextureGuid:
+      m_GuidLow: 14462394549508995690
+      m_GuidHigh: 12316585557097818506
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 14
+    m_ImageQuality: 1
+    m_Name: 7
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5485186321312829115
+      m_GuidHigh: 2497310910750103729
+    m_SerializedTextureGuid:
+      m_GuidLow: 9382192155873925599
+      m_GuidHigh: 170473436042277803
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 15
+    m_ImageQuality: 1
+    m_Name: duibi2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4775745624313117605
+      m_GuidHigh: 6383961310578382782
+    m_SerializedTextureGuid:
+      m_GuidLow: 6954722280493704741
+      m_GuidHigh: 15076113266817944904
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 16
+    m_ImageQuality: 1
+    m_Name: duibi 1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5087132518188314998
+      m_GuidHigh: 7453223250676093858
+    m_SerializedTextureGuid:
+      m_GuidLow: 4198636698860768778
+      m_GuidHigh: 15973252940830397946
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 17
+    m_ImageQuality: 1
+    m_Name: facepaper
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5342538126119549104
+      m_GuidHigh: 6110091472682956466
+    m_SerializedTextureGuid:
+      m_GuidLow: 699220251836766687
+      m_GuidHigh: 9064077175242395562
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 18
+    m_ImageQuality: 1
+    m_Name: robot
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4783124167281862396
+      m_GuidHigh: 9396521061566983103
+    m_SerializedTextureGuid:
+      m_GuidLow: 1699127801732077461
+      m_GuidHigh: 1716146153474738362
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 19
+    m_ImageQuality: 1
+    m_Name: ai1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5014852351961627612
+      m_GuidHigh: 14887137399872601234
+    m_SerializedTextureGuid:
+      m_GuidLow: 18164178056188671020
+      m_GuidHigh: 14420278490940028905
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Index: 20
+    m_ImageQuality: 1
+    m_Name: ai2
+    m_Texture: {fileID: 0}
